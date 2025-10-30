@@ -1,4 +1,6 @@
-.proposal-paragraph{
-	margin: auto;
-	width: 60%;
+.proposal {
+    display: block;
+    text-align: center;
+    margin: 20px;
+	width: 50%;
 }
