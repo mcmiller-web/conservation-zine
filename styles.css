@@ -4,3 +4,21 @@
     margin: 20px;
 	width: 50%;
 }
+
+.background-color{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-size: 300% 300%;
+    animation: gradientShift 30s ease infinite;
+}
+#index {
+    background: linear-gradient(45deg, #ff6b6b 38%, #128298 70%,#0f93a4 76%, #0f93a4 79%, #025d69 86%, #0c0fa4 100%);
+    animation: gradientShift 30s ease infinite;
+
+}
+
+#conser-highlights {
+    background: linear-gradient(45deg, #340460 38%, #128298 70%,#0f93a4 76%, #0f93a4 79%, #025d69 86%, #0c0fa4 100%);
+
+}
